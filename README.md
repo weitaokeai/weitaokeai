@@ -1,4 +1,5 @@
-### Hi there 👋
+### 起身啦全世界，起身啦，八点钟，返工！ 👋
+### Get up world, get up, 8 o'clock, back to work! 👋
 
 <!--
 **weitaokeai/weitaokeai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
